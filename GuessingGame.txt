@@ -1,0 +1,17 @@
+#include <iostream>
+
+int main()
+{
+
+int rand()
+{
+#Randomizes the numbers
+
+   }
+   
+int srand()
+{
+
+   }
+   
+}
